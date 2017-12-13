@@ -123,7 +123,7 @@ Dogrusu News    </description>
     <splash height="640" platform="ios" src="www/res/screen/ios/screen-ipad-landscape.png" width="1136" />
     <splash height="1536" platform="ios" src="www/res/screen/ios/screen-ipad-landscape.png" width="2048" />
     <preference name="SplashScreenDelay" value="3000" />
-    <access origin="https://hasangad.com/support" />
+    <access origin="https://www.dogrusunews.com/" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
